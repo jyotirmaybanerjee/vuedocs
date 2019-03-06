@@ -56,6 +56,7 @@ npm run dev
 
 > After these initial steps the directory structure in your project folder will look like this:
 
+```
 ├── README.md
 ├── index.html
 ├── package-lock.json
@@ -67,6 +68,7 @@ npm run dev
 │   └── main.js
 └── webpack.config.js
 
+```
 > Here, App.vue and main.js are the primary files of interest. If we fire up our text editor and open main.js, we’ll see the following code, which imports the Bootstrap style sheet and Bootstrap-Vue:
 
 ```javascript
